@@ -43,7 +43,7 @@ git remote add origin git@github.com:margaretmarks/computer_class.git
 git push -u origin main
 ```
 
-Now our local repository has been pushed to (Github)[https://www.github.com].
+Now our local repository has been pushed to [Github](https://www.github.com).
 
 ## Make a new copy
 
@@ -57,7 +57,7 @@ Note: we need to have our private ssh key on the computer to authenticate SSH.
 
 ## To push updates
 
-After each class, we have to commit our changes, and push to (Github)[https://www.github.com].
+After each class, we have to commit our changes, and push to [Github](https://www.github.com).
 
 ```sh
 git add -A
