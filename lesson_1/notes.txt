@@ -1,0 +1,4 @@
+computer parts
+1. hardware, processor,motherboard,memory,
+gui
+2. commands mv    mkdir  pwd    cd  man   ls
